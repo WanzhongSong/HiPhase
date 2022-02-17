@@ -1,4 +1,5 @@
 # HiPhase
+Phase unwrapping for fringe projection profilometry (FPP) using deep learning.  
 This code implements the approach as
 described in the following research paper:
 
